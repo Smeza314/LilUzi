@@ -1,0 +1,36 @@
+.header1 {
+  text-align: center;
+  background-color: black;
+  width: auto;
+  color: purple;
+  height: 70px;
+  margin-bottom: -2px;
+  font-size: 60px;
+}
+
+.bckrnd {
+  position: relative;
+  text-align: center;
+  color: purple;
+  
+}
+
+.topLeft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  border-style: solid;
+  border-color: black;
+  background: black;
+  margin-left: -18px;
+  margin-top: -8px;
+}
+
+.para {
+  background-color: black;
+  font-size: 30px;
+  color: purple;
+  text-align: center;
+  padding: 10px;
+}
+
